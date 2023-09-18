@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@skynexui/components": "^1.25.0",
     "@skynexui/responsive_stylesheet": "^1.11.0",
     "@types/styled-components": "^5.1.27",
     "next": "^13.4.19",
