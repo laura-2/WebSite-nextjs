@@ -29,8 +29,7 @@ function Titulo(props) {
         <Box
           styleSheet={{
             display: 'flex', alignItems: 'center', justifyContent: 'center',
-            backgroundColor: appConfig.theme.colors.primary[500],
-            backgroundImage: 'url(https://virtualbackgrounds.site/wp-content/uploads/2020/08/the-matrix-digital-rain.jpg)',
+            backgroundImage: 'url(https://www.creativefabrica.com/wp-content/uploads/2023/05/08/Background-Graphics-69189184-1.png)',
             backgroundRepeat: 'no-repeat', backgroundSize: 'cover', backgroundBlendMode: 'multiply',
           }}
         >
