@@ -14,6 +14,7 @@
   "dependencies": {
     "@skynexui/components": "^1.25.0",
     "@skynexui/responsive_stylesheet": "^1.11.0",
+    "@supabase/supabase-js": "^2.36.0",
     "@types/styled-components": "^5.1.27",
     "next": "^13.4.19",
     "react": "^18.2.0",
